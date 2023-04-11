@@ -1,0 +1,24 @@
+[{
+    "title": "Grid Total Purchase Request Validation",
+    "properties": [
+        {
+            "name": "maxTotal",
+            "label": "Max Total",
+            "type": "textfield"
+        },
+        {
+            "name": "minTotal",
+            "label": "Min Total",
+            "type": "textfield"
+        },
+        {
+            "name": "mandatory",
+            "label": "Mandatory",
+            "type": "checkbox",
+            "options": [{
+                    "value": "true",
+                    "label": ""
+                }]
+        }
+    ]
+}]
